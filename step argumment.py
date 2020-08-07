@@ -1,0 +1,1 @@
+print("Abdullah"[2:4:1])
